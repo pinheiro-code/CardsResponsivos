@@ -7,16 +7,12 @@ Projeto de interface visual desenvolvido com **HTML e CSS**, focado na criação
 <table>
   <tr>
     <td align="center">
-      <b>Menu Inicial</b><br>
-      <img src="https://github.com/user-attachments/assets/3d63779d-57c7-4c21-8acc-9140e7c6a74b" alt="Menu Inicial" width="300">
+      <b>Tela inicial dos cards</b><br>
+      <img src="https://github.com/user-attachments/assets/3d63779d-57c7-4c21-8acc-9140e7c6a74b" alt="Tela inicial dos cards" width="400">
     </td>
     <td align="center">
-      <b>Gameplay</b><br>
-      <img src="https://github.com/user-attachments/assets/0795cf62-bac5-41f8-8e3a-c23a48145015" alt="Gameplay" width="300">
-    </td>
-    <td align="center">
-      <b>Menu Final</b><br>
-      <img src="https://github.com/user-attachments/assets/xyz.png" alt="Menu Final" width="300">
+      <b>Cards em interação (hover)</b><br>
+      <img src="https://github.com/user-attachments/assets/0795cf62-bac5-41f8-8e3a-c23a48145015" alt="Cards em interação (hover)" width="400">
     </td>
   </tr>
 </table>
