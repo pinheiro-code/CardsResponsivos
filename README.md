@@ -4,11 +4,11 @@ Projeto de interface visual desenvolvido com **HTML e CSS**, focado na criação
 
 ## 🖼️ Preview do Projeto
 
-### Tela inicial
-![Tela inicial dos cards](<img width="1919" height="871" alt="Captura de tela 2026-01-19 112424" src="https://github.com/user-attachments/assets/3d63779d-57c7-4c21-8acc-9140e7c6a74b" />)
+### Tela inicial dos cards
+![Tela inicial dos cards](https://github.com/user-attachments/assets/3d63779d-57c7-4c21-8acc-9140e7c6a74b)
 
 ### Cards em interação (hover)
-![Cards com efeito hover](<img width="1919" height="871" alt="Captura de tela 2026-01-19 112437" src="https://github.com/user-attachments/assets/0795cf62-bac5-41f8-8e3a-c23a48145015" />)
+![Cards com efeito hover](https://github.com/user-attachments/assets/0795cf62-bac5-41f8-8e3a-c23a48145015)
 
 
 > As imagens acima demonstram o layout inicial e o efeito de expansão dos cards ao passar o mouse.
