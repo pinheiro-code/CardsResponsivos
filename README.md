@@ -49,4 +49,5 @@ Este projeto foi criado com o objetivo de **praticar interações visuais utiliz
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/interactive-purple-cards.git
+   git clone https://github.com/pinheiro-code/CardsReponsivos.git
+
